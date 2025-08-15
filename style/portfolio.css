@@ -31,7 +31,7 @@
     text-align: center;
 }
 /* header */
-.header{
+header{
     background-image: url(../images/developer.png), url(../images/header_bg.png);
     background-repeat: no-repeat;
     background-position: top left , bottom right;
@@ -154,7 +154,7 @@ nav li a{
 }
 
 /* footer style */
-.footer{
+footer{
     padding: 130px 230px;
     display: flex;
     gap: 100px;
